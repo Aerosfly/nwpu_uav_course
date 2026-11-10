@@ -1,0 +1,8 @@
+prefix=/home/tianbot/tt_ws/devel_isolated/rmtt_apriltag
+
+Name: rmtt_apriltag
+Description: Description of rmtt_apriltag
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,12 @@
+\subsubsection usage Usage
+\verbatim
+<node name="rmtt_tracker" pkg="rmtt_tracker" type="rmtt_tracker">
+  <param name="linear_kp" type="double" value="2.0" />
+  <param name="linear_ki" type="double" value="0.0" />
+  <param name="linear_kd" type="double" value="0.0" />
+  <param name="angular_kp" type="double" value="5.0" />
+  <param name="angular_ki" type="double" value="0.0" />
+  <param name="angular_kd" type="double" value="0.0" />
+</node>
+\endverbatim
+

@@ -1,0 +1,19 @@
+# ROS 编译产物
+build/
+devel/
+install/
+logs/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 编辑器/系统
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 编译生成的动态库（按需保留）
+# *.so

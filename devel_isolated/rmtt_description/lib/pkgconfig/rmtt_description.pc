@@ -1,0 +1,8 @@
+prefix=/home/tianbot/tt_ws/devel_isolated/rmtt_description
+
+Name: rmtt_description
+Description: Description of rmtt_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

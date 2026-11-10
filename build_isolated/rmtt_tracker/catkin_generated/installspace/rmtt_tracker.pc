@@ -1,0 +1,8 @@
+prefix=/home/tianbot/tt_ws/install_isolated
+
+Name: rmtt_tracker
+Description: Description of rmtt_tracker
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

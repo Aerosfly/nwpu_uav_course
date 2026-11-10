@@ -1,0 +1,8 @@
+prefix=/home/tianbot/tt_ws/devel_isolated/rmtt_tracker
+
+Name: rmtt_tracker
+Description: Description of rmtt_tracker
+Version: 0.0.0
+Cflags: -I/home/tianbot/tt_ws/devel_isolated/rmtt_tracker/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/tianbot/tt_ws/devel_isolated/tf2_kdl
+
+Name: tf2_kdl
+Description: Description of tf2_kdl
+Version: 0.7.5
+Cflags: -I/home/tianbot/tt_ws/src/rmtt_ros/geometry2-0.7.5/tf2_kdl/include -I/usr/include/eigen3 -I/usr/share/orocos_kdl/cmake/../../../include
+Libs: -L${prefix}/lib -lorocos-kdl
+Requires: 
